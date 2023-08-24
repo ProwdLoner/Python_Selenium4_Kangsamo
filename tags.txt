@@ -1,0 +1,169 @@
+///
+config_tabXPath = '//*[@id="menuLink174"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '믹스견'
+
+///
+config_tabXPath = '//*[@id="menuLink197"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '스피츠'
+
+///
+config_tabXPath = '//*[@id="menuLink158"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '시츄'
+
+///
+config_tabXPath = '//*[@id="menuLink159"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '요크셔테리어'
+
+///
+config_tabXPath = '//*[@id="menuLink160"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '말티즈'
+
+///
+config_tabXPath = '//*[@id="menuLink161"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '포메라니안'
+
+///
+config_tabXPath = '//*[@id="menuLink162"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '푸들'
+
+///
+config_tabXPath = '//*[@id="menuLink163"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '치와와'
+
+///
+config_tabXPath = '//*[@id="menuLink165"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '미니핀'
+
+///
+config_tabXPath = '//*[@id="menuLink166"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '슈나우저'
+
+///
+config_tabXPath = '//*[@id="menuLink168"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '페키니즈'
+
+///
+config_tabXPath = '//*[@id="menuLink167"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '닥스훈트'
+
+///
+config_tabXPath = '//*[@id="menuLink295"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '빠삐용'
+
+///
+config_tabXPath = '//*[@id="menuLink175"]'
+config_speciesLabel = '소형견'
+config_kindLabel = '다른 작은 아이들'
+
+///
+config_tabXPath = '//*[@id="menuLink335"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '비숑 프리제'
+
+///
+config_tabXPath = '//*[@id="menuLink253"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '보스턴 테리어'
+
+///
+config_tabXPath = '//*[@id="menuLink298"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '샤페이'
+
+///
+config_tabXPath = '//*[@id="menuLink312"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '웰시코기'
+
+///
+config_tabXPath = '//*[@id="menuLink164"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '비글'
+
+///
+config_tabXPath = '//*[@id="menuLink169"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '코카스파니엘'
+
+///
+config_tabXPath = '//*[@id="menuLink235"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '불독'
+
+///
+config_tabXPath = '//*[@id="menuLink316"]'
+config_speciesLabel = '중형견'
+config_kindLabel = '다른 중형 아이들'
+
+///
+config_tabXPath = '//*[@id="menuLink311"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '사모예드'
+
+///
+config_tabXPath = '//*[@id="menuLink291"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '피레니즈'
+
+///
+config_tabXPath = '//*[@id="menuLink170"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '리트리버'
+
+///
+config_tabXPath = '//*[@id="menuLink171"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '말라뮤트'
+
+///
+config_tabXPath = '//*[@id="menuLink172"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '한국 토종견'
+
+///
+config_tabXPath = '//*[@id="menuLink173"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '허스키'
+
+///
+config_tabXPath = '//*[@id="menuLink191"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '세퍼트'
+
+///
+config_tabXPath = '//*[@id="menuLink190"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '하운드'
+
+///
+config_tabXPath = '//*[@id="menuLink189"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '달마시안'
+
+///
+config_tabXPath = '//*[@id="menuLink192"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '콜리'
+
+///
+config_tabXPath = '//*[@id="menuLink268"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '쉽독'
+
+///
+config_tabXPath = '//*[@id="menuLink193"]'
+config_speciesLabel = '대형견'
+config_kindLabel = '다른 큰 아이들'
